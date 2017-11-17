@@ -9,6 +9,7 @@ var prop2=false;
 /*Funcionamiento*/
 for(var i=0;i<azar.length;i++){
   palabra.push(0);
+var Hola;
 }
 
 while(fallos<5){
